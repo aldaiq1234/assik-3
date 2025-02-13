@@ -1,4 +1,0 @@
-name: 1
-base_model: llama3.1
-data_path: C:\Users\Алдик\Desktop\pyt
-epochs: 10
