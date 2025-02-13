@@ -1,0 +1,17 @@
+streamlit
+langchain_community
+llama-index
+llama-index-llms-ollama
+chromadb
+sentence-transformers
+PyMuPDF
+tempfile
+text_splitter
+OllamaLLM
+pymongo
+chardet
+collections
+bs4
+requests
+numpy
+logging
